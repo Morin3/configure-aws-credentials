@@ -21,7 +21,7 @@
     "@smithy/property-provider": "^4.0.3",
     "@types/node": "^24.3.0",
     "@vercel/ncc": "^0.38.3",
-    "@vitest/coverage-v8": "^3.2.4",
+    "@vitest/coverage-v8": "^5.0.0",
     "aws-sdk-client-mock": "^4.1.0",
     "cpy-cli": "^6.0.0",
     "del-cli": "^6.0.0",
@@ -29,7 +29,7 @@
     "memfs": "^4.38.2",
     "standard-version": "^9.5.0",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.0"
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
