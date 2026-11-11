@@ -16,7 +16,7 @@
     "organization": true
   },
   "devDependencies": {
-    "@aws-sdk/credential-provider-env": "^3.879.0",
+    "@aws-sdk/credential-provider-env": "^3.972.84",
     "@biomejs/biome": "2.2.2",
     "@smithy/property-provider": "^4.0.3",
     "@types/node": "^24.3.0",
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@aws-sdk/client-sts": "^3.873.0",
+    "@aws-sdk/client-sts": "^3.1166.0",
     "@smithy/node-http-handler": "^4.1.1",
     "https-proxy-agent": "^7.0.6"
   },
